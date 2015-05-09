@@ -2,7 +2,7 @@
 
 <table summary="porownanie_w_HTML">
 <caption>Porównanie ASCIIDOC vs Markdown</caption>
-<tr><td><th>Funkcja<td>AsciiDoc<td>Markdown
+<tr><th>Funkcja<th>AsciiDoc<th>Markdown
 <tr><td>Nagłówek 0<td> ========<td> brak 
 <tr><td>Nagłówek I<td> ---------<td> # 
 <tr><td>Nagłówek II<td> \~~~~~<td> ##
