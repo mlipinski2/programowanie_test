@@ -1,4 +1,4 @@
-###Ta sama tabela w HTML:
+#Porownanie ASCIIDOC vs Markdown w HTML
 
  <table summary="tabela porównawcza">
 				<caption>Porównanie języków znaczników Markdown i AsciiDoc</caption>
