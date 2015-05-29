@@ -29,7 +29,5 @@
 <a target="strona" href="linki.html">Linka</a><br />
 <a href="mailto:mrpiatek@piatek.com">Kontakt</a><br>
 <!-- MENU koniec -->
-</td>
-<td bgcolor="kolor strony" valign="top"><iframe name="strona" src="home.html" width="560" height="440" frameborder="0"></iframe></td>
-</tr>
+
 </table>
