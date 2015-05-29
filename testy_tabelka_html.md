@@ -31,15 +31,3 @@
 <!-- MENU koniec -->
 
 </table>
-
-==== ASCIIDOC znaki zastrzezone
-
-mozna uzywac ponizszych znakow:
-
-[options="header"]
-|============================
-|Nazwa |Zank    |jak     
-|Copyright     |(C)  |  \(C)
-|Registered   |(R)  | \(R)
-|Trademark |(TM)  | \(TM)     
-|============================
