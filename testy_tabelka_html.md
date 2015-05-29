@@ -16,10 +16,10 @@
 |Link|http://costam.pl [nazawa]   |  [nazwa](www.costam.pl) |
 
 
-|TABELKA HTML|
+|TABELKA	| HTML|
 <table width="750" align="center" cellspacing="0" cellpadding="10">
 <tr>
-<td bgcolor="kolor góra" colspan="2" align="center" valign="middle">Tutaj można umieścić logo serwisu</td>
+<td bgcolor="kolor góra" colspan="2" align="center" valign="middle">TABELKA HTML</td>
 </tr>
 <tr>
 <td bgcolor="kolor menu" width="150" valign="top">
