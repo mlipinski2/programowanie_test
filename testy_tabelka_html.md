@@ -4,7 +4,12 @@
 | Nagłówek H1      | ----- lub ===H1      |   # |
 | Nagłówek H2 | ~~~~~ lub ====H2      |    ## |
 | Nagłówek H3 | ^^^^^ lub =====H3    |    ### |
-| Nagłówek H4 | +++++ lub ======H4     |   #### |
+| Nagłówek H4 | +++++ lub ======H4     |   #### | 
+|Podkreślenie| brak| \~~tekst~~ 
+|+szara ramka+| \+tekst+| ``tekst``
+|numerowanie| .punkt pierwszy| 1.punkt pierwszy
+|Komentarze         | /////| <!-- komentarz -->           
+|punktowanie| -punkt| -punkt (-,+ lub *)
 |Kursywa | _tekst_    |    ## |
 |Pogrubienie | **teskt**  | **tekst**|
 |Przekreślenie| brak  |  ~~tekst~~|
@@ -34,7 +39,7 @@
 
 # Program TV
 
-### Data: 25.05.2015
+### Data: 25.02.2015
 
 | ![alt text][POLSAT] | ![alt text][TV4] | ![alt text][TVPULS] |
 |---------------------|------------------|---------------------|
